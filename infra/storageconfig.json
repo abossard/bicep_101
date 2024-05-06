@@ -1,0 +1,12 @@
+{
+  "values": [
+    {
+      "name": "input",
+      "tier": "LRS"
+    },
+    {
+      "name": "output",
+      "tier": "ZRS"
+    }
+  ]
+}
